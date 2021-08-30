@@ -1,3 +1,4 @@
+//1. Addition of two numbers without functions.
 #include<stdio.h>
 int main()
 {
@@ -9,4 +10,4 @@ int main()
     return 0;
 }
 
-//1. Addition of two numbers without functions.
+
