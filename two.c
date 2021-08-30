@@ -1,3 +1,9 @@
+/*2. Addition of two numbers using functions
+       1. to accept values
+       2. to add two numbers
+       3. to display result
+       using suitable parameter passing technique
+   */
 #include<stdio.h>
 
 void accept(int *n1, int *n2)
@@ -23,9 +29,4 @@ int main()
 
     return 0;
 }
-/*2. Addition of two numbers using functions
-       1. to accept values
-       2. to add two numbers
-       3. to display result
-       using suitable parameter passing technique
-   */
+
